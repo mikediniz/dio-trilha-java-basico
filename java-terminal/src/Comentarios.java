@@ -36,7 +36,7 @@ public class Comentarios {
         }
         return r;
     }
-    // No terminal execute o comando abaixo
+    // No terminal execute o comando abaixo para rodar o arquivo de documentação
     //javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java
 
 }
